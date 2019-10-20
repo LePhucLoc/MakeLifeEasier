@@ -1,1 +1,2 @@
 # MakeLifeEasier
+pip3 install google_images_download
