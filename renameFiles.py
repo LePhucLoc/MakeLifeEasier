@@ -1,7 +1,8 @@
 import os 
 
-directory = "/home/lude/Documents/MakeLifeEasier/downloads/nancy/"
-name_files = "Nancy"
+folder_name = ""
+directory = "./downloads/" + folder_name + "/"
+name_files = "HOHO"
 # Function to rename multiple files 
 def main(): 
     i = 0
