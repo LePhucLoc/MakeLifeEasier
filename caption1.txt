@@ -428,9 +428,823 @@ hinh836.jpg#1 võ sĩ boxing đang đỡ đòn đánh của đối thủ .
 hinh836.jpg#2 2 võ sĩ boxing đang thi đấu với nhau .
 hinh836.jpg#3 võ sĩ boxing đang rất đau đớn .
 hinh836.jpg#4 võ sĩ boxing bị đấm ngay mặt .
-hinh837.jpg#0 một người đàn ông đang chơi cờ vua .
-hinh837.jpg#1 1 người đàn ông mặc áo xanh dương đang chơi cờ vua .
-hinh837.jpg#2 người đàn ông đang chơi quân cờ vua màu trắng .
-hinh837.jpg#3 bàn cờ vua được đặt trên một chiếc bàn gỗ .
-hinh837.jpg#4 chàng trai đang chơi cờ vua trong một căn phòng rộng lớn .
-
+hinh837.jpg#0 người đàn ông đang chơi cờ vua .
+hinh837.jpg#1 người đàn ông mặc áo xanh đang ngồi phía sau bàn cờ vua .
+hinh837.jpg#2 người đàn ông đang chơi phe trắng trong cờ vua .
+hinh837.jpg#3 bàn cờ vua được dặt trên một cái bàn gỗ .
+hinh837.jpg#4 người đàn ông đang chơi cờ vua trong một căn phòng rộng lớn .
+hinh838.jpg#0 3 cậu bé đang chơi bóng rổ .
+hinh838.jpg#1 cậu bé mặc áo màu đỏ đang giữ bóng .
+hinh838.jpg#2 2 cậu bé mặc áo màu xanh đang cố lấy bóng .
+hinh838.jpg#3 3 người đang chơi bóng rổ trong một căn phòng rộng lớn .
+hinh838.jpg#4 3 cậu bé đang vui vẻ chơi bóng rổ với nhau .
+hinh839.jpg#0 cạu bé và cô bé đang chơi cờ vua với nhau .
+hinh839.jpg#1 cậu bé mặc áo màu đỏ chơi phe trắng trong bàn cờ vua .
+hinh839.jpg#2 cô bé mặc áo trắng chơi phe đen trong bàn cờ vua .
+hinh839.jpg#3 bàn cờ vua được đặt trên cái bàn gỗ .
+hinh839.jpg#4 2 người đang chăm chú quan sát bàn cờ vua .
+hinh840.jpg#0 2 người đàn ông đang chơi bóng rổ .
+hinh840.jpg#1 2 đội bóng rổ đang thi đấu bóng rổ trong một sân vận động rộng lớn .
+hinh840.jpg#2 chàng trai mặc áo màu trắng đang giữ bóng .
+hinh840.jpg#3 chàng trai mặc áo đỏ đang cố lấy bóng .
+hinh840.jpg#4 khán giả đang quan sát trận đấu bóng rổ .
+hinh841.jpg#0 2 võ sĩ boxing đang trong trận đấu .
+hinh841.jpg#1 võ sĩ boxing đang đấm đối thủ .
+hinh841.jpg#2 võ sĩ boxing đang né đòn tấn công của đối thủ .
+hinh841.jpg#3 võ sĩ boxing đang khôm người xuống để tránh đòn tấn công .
+hinh841.jpg#4 2 võ sĩ boxing mặc quần đen đang thi đấu boxing .
+hinh842.jpg#0 võ sĩ boxing đang đứng thủ thế .
+hinh842.jpg#1 võ sĩ boxing đang đứng kế bước tường màu xanh .
+hinh842.jpg#2 võ sĩ boxing mặc quần đên và đeo găng tay màu đen .
+hinh842.jpg#3 võ sĩ boxing trông rất lực lưỡng .
+hinh842.jpg#4 võ sĩ boxing đang lấy 2 tay ôm mặt .
+hinh843.jpg#0 võ sĩ boxing đấm ngay cằm đối thủ .
+hinh843.jpg#1 võ sĩ boxing đang bị đối thủ đánh vào mặt .
+hinh843.jpg#2 võ sĩ boxing da trắng và mập bị đối thủ tấn công trúng .
+hinh843.jpg#3 võ sĩ boxing da đen tấn công chính xác vào đối thủ .
+hinh843.jpg#4 cú đấm của võ sĩ boxing rất chính xác và vô cùng điêu luyện .
+hinh844.jpg#0 vận động viên bóng rổ mặc đồng phục chỉ đội tuyên mình .
+hinh844.jpg#1 vận động viên bóng rổ đang chạy .
+hinh844.jpg#2 khán giả đang quan sát trận đấu .
+hinh844.jpg#3 vận động viên bóng rổ trông rất lực lưỡng .
+hinh844.jpg#4 vần động viên bóng rổ đang quan sát đối thủ .
+hinh845.jpg#0 5 đứa trẻ đang đứng trên một bàn cờ vua khổng lồ .
+hinh845.jpg#1 cậu bé mặc áo xanh đang ôm một quân cờ vua .
+hinh845.jpg#2 cậu bé mặc áo khoác đang nhìn cậu bé ôm quan cờ vua .
+hinh845.jpg#3 các cô bé và cậu bé đang chạm vào các quân cờ vua .
+hinh845.jpg#4 bàn cờ vua lớn hơn 5 đứa bé rất nhiều .
+hinh846.jpg#0 2 cậu bé đang chơi bóng rổ .
+hinh846.jpg#1 cậu bé mặc áo đỏ đang đổi theo cậu bé cởi trần .
+hinh846.jpg#2 cậu bé cởi trần đang cầm trái bóng rổ và chạy .
+hinh846.jpg#3 2 cậu bé đang chơi bóng rổ trong sân vận động .
+hinh846.jpg#4 2 cậu bé đang thi đấu bóng rổ  .
+hinh847.jpg#0 2 võ sĩ boxing đang đang trận đấu boxing .
+hinh847.jpg#1 võ sĩ boxing đang tung cú đấm vào đầu đối thủ .
+hinh847.jpg#2 võ sĩ boxing tung cú đấm trúng vào vai của đối thủ .
+hinh847.jpg#3 võ sĩ boxing lấy vai đỡ đòn tấn công của đối thủ .
+hinh847.jpg#4 võ sĩ boxing đã né được cú đấm vào đầu mình .
+hinh848.jpg#0 cú đấm từ võ sĩ boxing vô cùng mạnh mẽ .
+hinh848.jpg#1 1 võ sĩ boxing đã bị đối thủ đấm trúng mặt và vô cùng đau đớn .
+hinh848.jpg#2 võ sĩ boxing đấm trúng vào mặt đối thủ .
+hinh848.jpg#3 võ sĩ boxing mặc quần trắng và đeo găng tay màu trắng bị đấm trung .
+hinh848.jpg#4 võ sĩ boxing mặc quần đen và đeo găng tay màu vàng đấm trúng vào mặt đối thủ .
+hinh849.jpg#0 1 ông già và cô bé đang chơi cờ vua .
+hinh849.jpg#1 cô bé mặc áo đỏ chơi quân đen trong cờ vua .
+hinh849.jpg#2 ông lão mặc đồ đen đang chơi quân trắng trong cờ vua .
+hinh849.jpg#3 bàn cờ vua được đặt trên mặt bàn làm bằng thủy tinh .
+hinh849.jpg#4 2 người đang chơi cờ vua trong một căn phòng có cây thông noel .
+hinh850.jpg#0 cầu thủ bóng rổ đang thực hiện động tác úp rổ .
+hinh850.jpg#1 5 người đàn ông đang chơi bóng rổ trong sân vận động .
+hinh850.jpg#2 4 tuyển thủ bóng rổ đang nhìn đối thủ úp rổ .
+hinh850.jpg#3 4 tuyển thủ bóng rổ đang rất bối rối trước đối thủ .
+hinh850.jpg#4 có 2 đội tuyển bóng rổ áo trắng và áo xanh đang thi đấu với nhau .
+hinh851.jpg#0 cậu bé đeo kình đang chơi cờ vua .
+hinh851.jpg#1 cậu bé mặc áo vàng đang chơi cờ vua trong rừng .
+hinh851.jpg#2 cậu bé đang chơi cờ vua một mình .
+hinh851.jpg#3 cậu bé đang di chuyển quân cờ của mình .
+hinh851.jpg#4 cậu bé đang nhìn bàn cờ vua .
+hinh852.jpg#0 võ sĩ boxing đang tận hưởng chiến thắng của mình .
+hinh852.jpg#1 võ sĩ boxing đang mang 1 chiếc đai lưng của người vô địch .
+hinh852.jpg#2 võ sĩ boxing đang khoe cơ bắp của mình .
+hinh852.jpg#3 võ sĩ boxing mặc quân trắng và đeo găng tay màu xanh đgiữa sàn đấu .
+hinh852.jpg#4 có rất nhiều khán giả xung quanh võ sĩ boxing .
+hinh853.jpg#0 cậu bé đang nhìn người khác chơi cờ vua .
+hinh853.jpg#1 bàn cờ vua được làm bằng gỗ được đặt trên một cái bàn .
+hinh853.jpg#2 cậu bé đang nhìn bàn cờ vua .
+hinh853.jpg#3 một bàn tay đang giữ quân cờ vua .
+hinh853.jpg#4 người đàn ông đang thực hiện nước đi của mình .
+hinh854.jpg#0 nữ võ sĩ boxing đang hỏi ý kiến của huấn luyện viên .
+hinh854.jpg#1 nữ võ sĩ boxing mặc áo màu xanh đang cuối mặt xuống đất .
+hinh854.jpg#2 trọng tài đứng giữa 2 nữ võ sĩ boxing .
+hinh854.jpg#3 2 huấn luyện viên đang chỉ dẫn cho võ sĩ boxing mặc áo đỏ .
+hinh854.jpg#4 trận thi đấu boxing đang được tạm dừng .
+hinh855.jpg#0 vận động viên bóng rổ mặc cố đưa bóng vào rổ .
+hinh855.jpg#1 vần động viên mặc áo trắng đang giữ bóng .
+hinh855.jpg#2 vận động viên bóng rổ áo xanh cướp được bóng từ đối thủ .
+hinh855.jpg#3 cú ném bóng vào rổ không được chính xác .
+hinh855.jpg#4 2 đội tuyển bóng rổ đang thi đấu với nhau .
+hinh856.jpg#0 võ sĩ boxing mặc quần vàng đấm trượt đối thủ .
+hinh856.jpg#1 võ sĩ boxing mặc quần trắng đã né được đòn tấn công của đối thủ .
+hinh856.jpg#2 2 võ sĩ boxing đang thi đấu trong một võ đài có hàng rào sắt .
+hinh856.jpg#3 2 võ sĩ boxing trông rất lực lưỡng .
+hinh856.jpg#4 2 võ sĩ đang thi đấu trong một căn phòng rất tối .
+hinh857.jpg#0 vận động viên bóng rổ mặc áo màu đen đang nhảy lên ném bóng .
+hinh857.jpg#1 vần động viên bóng rổ mặc áo màu trắng nhảy lên cản đối thủ .
+hinh857.jpg#2 khán giả đang theo dõi trận đấu bóng rổ .
+hinh857.jpg#3 vận động viên áo trắng cố gắng với tay tới trai bóng rổ .
+hinh857.jpg#4 sân vần động đầy khán giả đang có một trận đấu bóng rổ .
+hinh858.jpg#0 2 cô gái đang chơi cờ vua với nhau .
+hinh858.jpg#1 2 cô gái đang nhìn bàn cờ vua .
+hinh858.jpg#2 bàn cờ vua được thiết kế vô cùng tinh xảo .
+hinh858.jpg#3 2 cô gái chơi cờ vua trong một căn phòng vô cùng tối .
+hinh858.jpg#4 2 cô gái đang nghiêm túc chơi một trận cờ vua .
+hinh859.jpg#0 bàn cờ vua đắt tiền được đặt trên một cái bàn làm việc .
+hinh859.jpg#1 2 người đang chơi cờ vua .
+hinh859.jpg#2 bàn cờ vua được đặt kế một ly nước .
+hinh859.jpg#3 2 người đang nhìn bàn cờ vua .
+hinh859.jpg#4 2 người đang giải trí sau khi làm việc bằng cách chơi cờ vua .
+hinh860.jpg#0 bàn cờ vua được chụp từ trên xuogos .
+hinh860.jpg#1 2 người đang chơi cờ vua .
+hinh860.jpg#2 bàn cờ vua được làm bằng gỗ và được đặt trên một cái bàn được làm bằng gỗ .
+hinh860.jpg#3 2 người đang khoanh tay suy nghĩ về bàn cờ vua .
+hinh860.jpg#4 bàn cờ vua trông rất đẹp khi được chiếu sáng .
+hinh861.jpg#0 5 cô gái đang chơi bóng rổ .
+hinh861.jpg#1 3 cô gái đội đỏ đang thi đấu với 2 cô gái đội xanh trong một trận đấu bóng rổ .
+hinh861.jpg#2 cô gái đội đỏ đang giữ trái bóng rổ .
+hinh861.jpg#3 nữ vận động viên bóng rổ đang cố chuyền bóng cho đồng đội .
+hinh861.jpg#4 2 nữ vận động viên áo xanh đang cố giành lấy trái bóng rổ .
+hinh862.jpg#0 trọng tài đang đứng giữa 2 đội tuyển bóng rổ .
+hinh862.jpg#1 nữ vần động viên bóng rổ mặc áo cam đang nhảy lên chụp trái bóng rổ .
+hinh862.jpg#2 2 nữ vận động viên bóng rổ đang cố giành bóng của nhau .
+hinh862.jpg#3 10 người đang đứng trong sân bóng rổ .
+hinh862.jpg#4 khán giả đang quan sát trận thi đấu bóng rổ .
+hinh863.jpg#0 người đàn ông đang chơi cờ vua .
+hinh863.jpg#1 người đàn ông mặc vest chơi cờ vua .
+hinh863.jpg#2 người đang ông mặc vest đang suy nghĩ về cờ vua .
+hinh863.jpg#3 người đàn ông mặc vest đang quan sát bàn cờ vua .
+hinh863.jpg#4 người đang ông chơi quân trắng trong cờ vua .
+hinh864.jpg#0 2 bàn tay đang giơ trên bàn cờ vua .
+hinh864.jpg#1 đây là bàn cờ vua của quỷ .
+hinh864.jpg#2 2 bàn tay tượng trung cho thiện và ác .
+hinh864.jpg#3 đây là bàn cờ vua về cuộc sống con người .
+hinh864.jpg#4 bàn cờ vua được đặt trong một không gian vô cùng rùng rợn .
+hinh865.jpg#0 2 cậu bé đang chơi cờ vua .
+hinh865.jpg#1 2 cậu bé sinh đôi đang thi đấu cờ vua với nhau .
+hinh865.jpg#2 bàn cờ vua được làm bằng gỗ được sử dụng để 2 cậu bé chơi cờ vua .
+hinh865.jpg#3 bàn cờ vua được đặt trên một cái bàn gỗ .
+hinh865.jpg#4 2 cậu bé sinh đôi mặc áo sơ mi trắng rất chăm chú chơi cờ vua .
+hinh866.jpg#0 võ sĩ boxing đang thong thả chụp hình .
+hinh866.jpg#1 chàng trai mặc quần đỏ là một võ sĩ boxing .
+hinh866.jpg#2 chàng trai đang chụp hình về đề tài boxing .
+hinh866.jpg#3 đây là một bức ảnh về đề tài boxing .
+hinh866.jpg#4 võ sĩ boxing trông rất lực lưỡng .
+hinh867.jpg#0 2 chàng trai đang chơi bóng rổ .
+hinh867.jpg#1 2 đội bóng rổ đang thi đấu với nhau .
+hinh867.jpg#2 khán giả đang theo dõi trận đấu bóng rổ .
+hinh867.jpg#3 chàng trai mặc áo trắng đang giữ trái bóng rổ .
+hinh867.jpg#4 chàng trai mặc áo xanh đang cố lấy trái bóng rổ từ đối thủ .
+hinh868.jpg#0 3 chàng trai đang chơi bóng rổ trong một sân vận động lớn .
+hinh868.jpg#1 chàng trai mặc áo xanh đang giữ bóng và chạy .
+hinh868.jpg#2 chàng trai mặc áo trắng đang chạy tới cản đối thủ .
+hinh868.jpg#3 đồng đội chàng trai mặc áo xanh đang nhìn trái bóng rổ .
+hinh868.jpg#4 vận động viên bóng rổ đang thi đấu vô cùng hăng hái .
+hinh869.jpg#0 2 võ sĩ boxing đang thi đấu trên một võ đài rộng lớn .
+hinh869.jpg#1 chàng trai mặc quần trắng đám trượt qua cổ đối thủ .
+hinh869.jpg#2 võ sĩ boxing quần đen đang áp sát đối thủ .
+hinh869.jpg#3 võ sĩ boxing quần đen đã né được đòn tấn công của đối thủ .
+hinh869.jpg#4 võ sĩ boxing sử dụng tay phải để gặc đòn tấn công của đổi thủ đi .
+hinh870.jpg#0 chàng trai đang tân trái bóng rổ xuông đất .
+hinh870.jpg#1 chàng trai mặc áo đen ném trái bóng rổ và đi .
+hinh870.jpg#2 chàng trai áo xanh đang tiến tới trái bóng rổ .
+hinh870.jpg#3 sân vận động bóng rổ rất vắng người .
+hinh870.jpg#4 2 đội đang tập luyện bóng rổ với nhau .
+hinh871.jpg#0 2 đứa trẻ đang chơi cờ vua với nhau .
+hinh871.jpg#1 2 đứa trẻ chơi cờ vua vô cùng vui vẻ .
+hinh871.jpg#2 bàn cờ vua bằng gỗ được đặt trên cái bàn bằng sắt .
+hinh871.jpg#3 cậu bé áo xanh chơi quân trắng trong cờ vua .
+hinh871.jpg#4 cậu bé áo trắng chơi quân đen trong cờ vua .
+hinh872.jpg#0 võ sĩ boxing đang thủ thế .
+hinh872.jpg#1 võ sĩ boxing đeo găng tay boxing màu đen .
+hinh872.jpg#2 võ sĩ boxing da đen đăng quan sát đối thủ .
+hinh872.jpg#3 võ sĩ boxing quan sát để né đòn tấn cộng của đối thủ .
+hinh872.jpg#4 võ sĩ boxing quan sát để tìm cơ hội tấn công đối thủ .
+hinh873.jpg#0 2 người đang chơi cờ vua .
+hinh873.jpg#1 người đàn ông mặc áo trắng đang chơi quân đen trong cờ vua .
+hinh873.jpg#2 người đàn ông mặc áo đen đang chơi quân trắng trong cờ vua .
+hinh873.jpg#3 người mặc đồ đen đang chạm vào bàn cờ vua .
+hinh873.jpg#4 người mặc áo trắng đang quan sát bàn cờ vua .
+hinh874.jpg#0 5 người đang chơi bóng rổ .
+hinh874.jpg#1 chàng trai mặc áo đen đang ném bóng vào rổ .
+hinh874.jpg#2 vận động viên áo trắng đang cố cản đổi thủ ném bóng vào rổ .
+hinh874.jpg#3 người đàn ông mặc áo đen đang quan sát đồng đội mình .
+hinh874.jpg#4 5 người đang chơi bóng rổ trong một sân vận động lớn .
+hinh875.jpg#0 cậu bé đang tập trung quan sát bàn cờ vua .
+hinh875.jpg#1 cậu bé chơi cờ vua trong một nơi tối tăm .
+hinh875.jpg#2 cậu bé buồn bã khi nhìn bàn cờ vua .
+hinh875.jpg#3 cuậ bé mặc áo trắng chơi quân trắng trong cờ vua .
+hinh875.jpg#4 cậu bé đang suy nghĩ về cờ vua .
+hinh876.jpg#0 một bàn tay đang chạm vào bàn cờ vua .
+hinh876.jpg#1 quân đen trong cờ vua được một người điều khiển .
+hinh876.jpg#2 1 người đang chơi cờ vua trong một nơi vô cùng sáng .
+hinh876.jpg#3 một bàn tay đang giữ một quân cờ .
+hinh876.jpg#4 bàn cờ vua vua cùng đẹp khi được chiếu sáng .
+hinh877.jpg#0 1 bàn tay đang chạm vào quân chôt đen trong cờ vua .
+hinh877.jpg#1 một người mặc áo sọc đang quan sát bàn cờ vua .
+hinh877.jpg#2 bàn cờ vua đang được sử dụng để thi đấu .
+hinh877.jpg#3 bàn cờ vua đẹp đang đặt trên bàn .
+hinh877.jpg#4 một người đang chơi quân đen trong cờ vua .
+hinh878.jpg#0 3 người đang chơi cờ vua .
+hinh878.jpg#1 người cha và người con đang chơi cờ vua trong khi người mẹ đang quan sát mình .
+hinh878.jpg#2 2 người chơi cờ vua trong một căn phòng sáng và nhiều sách .
+hinh878.jpg#3 cậu bé áo xanh đang chơi quân trắng trong cờ vua .
+hinh878.jpg#4 người đàn ông áo trắng đang chơi quân đen trong cờ vua .
+hinh879.jpg#0 đây là một trò chơi điện tủ về cờ vua .
+hinh879.jpg#1 bàn cờ vua có màu xanh .
+hinh879.jpg#2 quân cờ và bàn cờ đều là các tín hiệu điện .
+hinh879.jpg#3 game cờ vua vô cùng khó .
+hinh879.jpg#4 đây là giao diện điện tử của trò chơi cờ vua .
+hinh880.jpg#0 ông lão và cậu bé đang chơi cờ vua .
+hinh880.jpg#1 cậu bé chơi cờ đen .
+hinh880.jpg#2 ông lão chơi cờ trắng .
+hinh880.jpg#3 2 người đang chơi cờ vua trong một nơi thoáng mát .
+hinh880.jpg#4 2 người đang quan sát bàn cờ vua .
+hinh881.jpg#0 chàng trai đang chạm vào bàn cờ vua .
+hinh881.jpg#1 chàng trai chơi cờ vua một mình .
+hinh881.jpg#2 chàng trai đang chơi quân trắng trong cờ vua .
+hinh881.jpg#3 chàng trai mặc vest chơi cờ vua trong một căn phòng rộng lớn .
+hinh881.jpg#4 bàn cờ vua bằng gỗ được sử dụng trong một căn phòng màu trắng .
+hinh882.jpg#0 2 cậu bé đang chơi cờ vua .
+hinh882.jpg#1 2 cậu bé mặc vest chơi cờ vua với nhau .
+hinh882.jpg#2 1 cậu bé đang chạm vào cờ vua .
+hinh882.jpg#3 2 cậu bé đang quan sát bàn cờ vua .
+hinh882.jpg#4 bàn cờ vua bàn gỗ đang được 2 cậu bé sử dụng .
+hinh883.jpg#0 2 nữ vận động viên bóng rổ đang thi đấu với nhau .
+hinh883.jpg#1 nữ vận động viên áo xanh đang cố ném bóng .
+hinh883.jpg#2 nữ vận động viên áo đen đang cố cản bóng .
+hinh883.jpg#3 khán giả đang quan sát trận đấu bóng rổ .
+hinh883.jpg#4 nữ vận động viên bóng rổ áo đen xăm trổ .
+hinh884.jpg#0 3 người đang quan sát bàn cờ vua .
+hinh884.jpg#1 chàng trai mặc áo đen đeo kính đang suy nghĩ nước đi kế tiếp .
+hinh884.jpg#2 cô gái áo xám dễ thương đang suy nghĩ nước đi .
+hinh884.jpg#3 3 người trong một lớp học về cờ vua .
+hinh884.jpg#4 bàn cờ vua được sử dụng là bàn cờ bằng giấy được sử dụng rộng rãi .
+hinh885.jpg#0 5 cậu bé đang chơi bóng rổ .
+hinh885.jpg#1 trái bóng rổ đang lơ lửng giữa 5 cậu bé .
+hinh885.jpg#2 sân bóng rổ vô cùng rộng và nhiều người sử dụng .
+hinh885.jpg#3 4 cậu bé đang cố lấy bóng .
+hinh885.jpg#4 1 cậu bé đang nhìn trái bóng rổ .
+hinh886.jpg#0 1 vận động viên bóng rổ đang thể hiện bản thân .
+hinh886.jpg#1 vận động viên bóng rổ áo đỏ trong rất láo .
+hinh886.jpg#2 khán giả đang quan sát trận đấu bóng rổ .
+hinh886.jpg#3 vận động viên bóng rổ đang cố thu hút ánh nhìn từ mọi người .
+hinh886.jpg#4 đội đỏ có vẻ đang thắng thế trong một trận đấu bóng rổ .
+hinh887.jpg#0 một bàn tay đang chơi cờ vua .
+hinh887.jpg#1 1 bàn tay đang chạm vào quân trắng trong cờ vua .
+hinh887.jpg#2 một người đang chơi cờ vua trong một căn phòng rộng lớn  .
+hinh887.jpg#3 một người đang chơi cờ vua trong một căn phòng sáng .
+hinh887.jpg#4 ánh sáng chiếu qua bàn cờ vua làm bàn cờ trong rất đẹp .
+hinh888.jpg#0 quan vua đang năm giữa bàn cờ .
+hinh888.jpg#1 bàn cờ bằng gỗ có đặt các quân cờ ở trên .
+hinh888.jpg#2 quân vua trắng đang gục ngã trước quân hậu .
+hinh888.jpg#3 bàn cờ vua rất sáng bóng .
+hinh888.jpg#4 quân hậu là quân quan trọng trong cờ vua .
+hinh889.jpg#0 2 tuyển thủ cờ vua đang thi đấu với nhau .
+hinh889.jpg#1 có nhiều người đang theo dõi trận đấu cờ vua .
+hinh889.jpg#2 tuyển thủ áo xanh đang suy nghĩ nước đi của mình .
+hinh889.jpg#3 tuyển thủ áo xám đang suy nghĩ bước tiếp  .
+hinh889.jpg#4 bàn cờ vua đang được chơi trong một trận thi đấu cờ vua .
+hinh890.jpg#0 rất nhìu người đang chơi cờ vua .
+hinh890.jpg#1 cảnh sát đang chơi cờ vua với dân thường .
+hinh890.jpg#2 nhiều người tập trung trong một căn phòng rộng lớn để chơi cờ vua .
+hinh890.jpg#3 quân đội mỹ đang chơi cờ vua .
+hinh890.jpg#4 ai cũng chăm chú quan sát nhìn bàn cờ vua .
+hinh891.jpg#0 nhiều người đang chơi cờ vua trong một không gian sáng .
+hinh891.jpg#1 hơn bồn bàn cờ vua được sử dụng để thi đấu .
+hinh891.jpg#2 chàng trai áo đỏ đang khôm người suy nghĩ chiến thuật .
+hinh891.jpg#3 ai cũng tập trung chơi cờ vua .
+hinh891.jpg#4 đây là một giải đấu cờ vua lớn .
+hinh892.jpg#0 2 võ sĩ boxing đang thi đấu trên võ đài .
+hinh892.jpg#1 võ sĩ boxing đang đấm đối thủ  .
+hinh892.jpg#2 1 võ sĩ boxing đang cố né đòn tấn công của đổi thủ .
+hinh892.jpg#3 1 võ sĩ boxing đang tiến tới để ra đòn tấn công .
+hinh892.jpg#4 trận đấu boxing rất kịch tính .
+hinh893.jpg#0 rất nhiều người đang thi đấy trong một giải đấu cờ vua .
+hinh893.jpg#1 tuyển thủ cờ vua áo xanh đang lườm đối thủ .
+hinh893.jpg#2 tuyển thủ cờ vua áo xanh đậm vô cùng bình thản trước ánh nhìn của đối thủ .
+hinh893.jpg#3 quân đên trong bàn cờ vua được sử dụng có màu xanh dương .
+hinh893.jpg#4 bàn cờ vua được đặt trên một cái bàn bằng gỗ cho các thí sinh thi đấu .
+hinh894.jpg#0 4 người đàn ông này là võ sĩ boxing .
+hinh894.jpg#1 4 võ sĩ boxing đang đứng tạo dán .
+hinh894.jpg#2 4 võ sĩ boxing trông rất ngầu .
+hinh894.jpg#3 4 võ sĩ boxing chụp hình trông một căn phòng rộng lớn .
+hinh894.jpg#4 4 võ sĩ boxing đang ở một nới rất tối .
+hinh895.jpg#0 2 chàng trai đang chơi trong một trận đấu bóng rổ .
+hinh895.jpg#1 chàng trai áo vang đang giữ bóng và chạy .
+hinh895.jpg#2 vân động viên áo đen đang c .
+hinh895.jpg#3 khàn giả đang quan sát trận đấu bóng rổ .
+hinh895.jpg#4 vận động viên bóng rổ áo đen đang quan sát đối thủ mình .
+hinh896.jpg#0 1 võ sĩ boxing đang tung cú đấm trông rất đẹp mắt .
+hinh896.jpg#1 1 võ sĩ boxing đang cố đỡ cú đấm của đối thủ .
+hinh896.jpg#2 1 võ sĩ đang mặc quần đen và đeo găng tay màu đen .
+hinh896.jpg#3 1 võ sĩ đang mặc quần trắng và đeo găng tay màu đen .
+hinh896.jpg#4 2 võ sĩ đang thi đấu boxing trong một võ đài rất tối .
+hinh897.jpg#0 6 người đàn ông đang thi đấu boxing .
+hinh897.jpg#1 3 người đàn ông đang đấm đối thủ mình .
+hinh897.jpg#2 1 võ sĩ boxing bị đấm .
+hinh897.jpg#3 2 võ sĩ boxing đã né được đòn tấn công .
+hinh897.jpg#4 đây là 3 trận đấu boxing khác nhau .
+hinh898.jpg#0 2 nữ võ sĩ boxing đang thi đấu với nhau .
+hinh898.jpg#1 1 nữ võ sĩ đang né cú đấm của đối thủ .
+hinh898.jpg#2 1 nữ võ sĩ quần đen đang thủ thế để thực hiện một đòn tấn công .
+hinh898.jpg#3 1 nữ võ sĩ đang nghiên người .
+hinh898.jpg#4 2 nữ võ sĩ boxing trông rất kiệt sức .
+hinh899.jpg#0 cậu bé khoanh tay nhìn bàn cờ vua chăm chú .
+hinh899.jpg#1 bàn cờ vua được đặt trên một mặt bàn thủy tinh .
+hinh899.jpg#2 1 cậu bé đang chơi cờ vua .
+hinh899.jpg#3 cậu bé chơi cờ vua trong một căn phòng màu trắng .
+hinh899.jpg#4 cậu bé tóc xoăn đang suy nghĩ chiến thuật cờ vua .
+hinh900.jpg#0 2 võ sĩ đang thi đấu với nhau trong một trận đấu boxing .
+hinh900.jpg#1 1 võ sĩ boxing đã nắm được đầu đối thủ .
+hinh900.jpg#2 1 võ sĩ thực hiện cú đấm nhưng trượt .
+hinh900.jpg#3 1 võ sĩ boxing đang cố phản đòn sau khi bắt được đòn tấn công của đối thủ .
+hinh900.jpg#4 2 võ sĩ boxing đang rất mệt mỏi .
+hinh901.jpg#0 2 nữ vận động viên bóng rổ đang thi đấu bóng rổ .
+hinh901.jpg#1 nữ vận động bóng rổ mặc áo màu trắng đang giữ bóng và chạy .
+hinh901.jpg#2 nữ vận động viên bóng rổ áo xanh đang giành bóng từ đối thủ .
+hinh901.jpg#3 có rất nhiều người trên sân bóng rổ .
+hinh901.jpg#4 2 nữ vận động viên bóng rổ đang tranh chấp trái bóng rổ .
+hinh902.jpg#0 nữ vận động viên bóng rổ đang giữ trái bóng rổ .
+hinh902.jpg#1 nữ vận động viên bóng rổ áo trắng đang chạy trên sân bóng rổ .
+hinh902.jpg#2 một vài khán giả đang theo dõi nữ vận động viên bóng rổ .
+hinh902.jpg#3 nữ vận động viên bóng rổ đang nghiên người tâng bóng .
+hinh902.jpg#4 nữ vận động viên bóng rổ đang rất cố gắng .
+hinh903.jpg#0 2 người đang chơi cờ vua trong một căn phòng .
+hinh903.jpg#1 chàng trai và người đàn ông đang chơi cờ vua tại một nơi sang trọng .
+hinh903.jpg#2 bàn cờ vua được thiết kế rất tinh xảo .
+hinh903.jpg#3 2 người chơi cờ vua đang thách thức nhau .
+hinh903.jpg#4 2 người đang nhìn vào bàn cờ vua .
+hinh904.jpg#0 1 đội bóng rổ đang đi trên sảnh .
+hinh904.jpg#1 một vận động viên bóng rổ rất cao đang dẫn đầu đội bóng rổ .
+hinh904.jpg#2 đội bóng rổ có đồng phục màu trắng .
+hinh904.jpg#3 7 vận động viên bóng rồ đi trên một sảnh dài .
+hinh904.jpg#4 đội bóng rổ đang đi trên sảnh có mặc sàn màu xám .
+hinh905.jpg#0 2 người mẫu đang chụp hình về chủ đề bóng rổ .
+hinh905.jpg#1 3 người mẫu đang giữ 3 quả bóng rổ .
+hinh905.jpg#2 3 người đang mặc đồ xanh đang tạo dáng với trái bóng rổ .
+hinh905.jpg#3 3 người da đen đang giơ trái bóng rổ .
+hinh905.jpg#4 3 vận động viên bóng rổ được chụp hình với background màu cam .
+hinh906.jpg#0 một người đàn ông đang giữ một trái bóng rổ .
+hinh906.jpg#1 một người đàn ông mặc đồ trắng đang giữ trái bóng rổ trên sân bóng .
+hinh906.jpg#2 1 người đàn ông tay cầm điện thoại đang chơi bóng rổ .
+hinh906.jpg#3 một người đàn ông đang chơi bóng rổ trong một căn phòng rộng lớn .
+hinh906.jpg#4 một người đàn ông đang tạo dáng chụp hình với trái bóng rổ .
+hinh907.jpg#0 2 võ sĩ boxing đang thi đấu trên võ đài .
+hinh907.jpg#1 trọng tài đang nhìn 2 võ sĩ thi đấu boxing .
+hinh907.jpg#2 1 võ sĩ boxing đang tấn công đối thủ .
+hinh907.jpg#3 1 võ sĩ boxing đang bị đối thủ mình tấn công vào mặt .
+hinh907.jpg#4 1 võ sĩ boxing đang rất đau đớn vì bị tấn công .
+hinh908.jpg#0 2 võ sĩ boxing đang thi đấu boxing trên võ đài .
+hinh908.jpg#1 1 võ sĩ boxing đang bị đối thủ giữ lại tấn công .
+hinh908.jpg#2 1 võ sĩ boxing đang tấn công vào đầu đối thủ mình .
+hinh908.jpg#3 khán giả đang theo dõi trận đấu boxing .
+hinh908.jpg#4 1 võ sĩ boxing đang cúi người để chịu đựng đòn tấn công đối thủ .
+hinh909.jpg#0 1 bàn tay đang chạm vào bàn cờ vua .
+hinh909.jpg#1 1 người đang chời quân đen trong cờ vua .
+hinh909.jpg#2 bàn cờ vua được làm bằng gỗ được đặc trên một bàn gỗ .
+hinh909.jpg#3 bàn cờ vua được ánh sáng chiếu tới .
+hinh909.jpg#4 1 người đang chơi cờ vua .
+hinh910.jpg#0 1 người mặc đồ trắng đang chơi cờ vua .
+hinh910.jpg#1 người chơi cờ vua đặt tay lên một cái gối .
+hinh910.jpg#2 người chơi cờ vua đang chơi quân đên của bàn cờ vua .
+hinh910.jpg#3 bàn cờ vua làm bằng gỗ được đặt trên một cái bàn gỗ .
+hinh910.jpg#4 người đàn ông da đen chơi cờ vua trong rất chăm chú .
+hinh911.jpg#0 2 võ sĩ boxing đang thi đấu với nhau trong một giải đấu .
+hinh911.jpg#1 1 võ sĩ boxing đang đấm vào mặt đối thủ .
+hinh911.jpg#2 1 võ sĩ boxing lấy vai mình đỡ đòn tấn công nhưng không thành công .
+hinh911.jpg#3 1 võ sĩ boxing đã thực hiện một cú đấm móc xoay người .
+hinh911.jpg#4 1 võ sĩ boxing đang cố gắng chống đỡ đòn tấn công của đối thủ .
+hinh912.jpg#0 2 người đàn ông đang chơi bóng rổ trên sân vận động .
+hinh912.jpg#1 người đàn ông mặc áo đen đang giữ trái bóng rổ .
+hinh912.jpg#2 vận động viên bóng rổ áo đen đang cố đẩy đối thủ ra .
+hinh912.jpg#3 vận động viên bóng rổ áo xanh đang cố giành bóng từ đối thủ .
+hinh912.jpg#4 khán giả đang theo dõi trận đấu bóng rổ .
+hinh913.jpg#0 2 võ sĩ boxing đang thi đấu trong một trận đấu .
+hinh913.jpg#1 võ sĩ boxing quần vàng tấn công vào ngực đối thủ .
+hinh913.jpg#2 võ sĩ boxing quần đen đang cố gắng chịu đựng đòn tấn công của đối thủ .
+hinh913.jpg#3 võ sĩ boxing quần đen đang nhăn mặt đau đớn .
+hinh913.jpg#4 2 võ sĩ boxing đang thi đấu trong một căn phòng tối .
+hinh914.jpg#0 2 vận động viên bóng rổ dang thi đấu trong một sân vận động  .
+hinh914.jpg#1 vận động viên áo đen đang giữ trái bóng rổ .
+hinh914.jpg#2 vận động viên bóng rổ áo đen đang nhảy lên ném bóng .
+hinh914.jpg#3 vận động viên bóng rổ áo trắng đang cố chặn bóng từ đối thủ .
+hinh914.jpg#4 vận động viên bóng rổ áo trắng nhảy lên và giơ tay chặn quả bóng .
+hinh915.jpg#0 một bàn tay đang chạm vào quân cờ vua .
+hinh915.jpg#1 một bàn tay robot đang giữ một quân cờ trên bàn cờ vua .
+hinh915.jpg#2 một bàn tay robot đang nâng quân chốt trên bàn cờ vua lên .
+hinh915.jpg#3 bàn tay robot làm ngã một quân cờ vua .
+hinh915.jpg#4 các quân cờ được đặt trên bàn cờ vua .
+hinh916.jpg#0 5 người đang chơi bóng rổ trong một giải đấu .
+hinh916.jpg#1 khán giả đang theo dõi trận đấu bóng rổ .
+hinh916.jpg#2 1 vận động viên bóng rổ áo trắng đang thực hiện động tác úp rổ .
+hinh916.jpg#3 3 vận động viên áo vàng thi đấu với 2 vận động viên bóng rổ áo trắng .
+hinh916.jpg#4 1 vận động viên áo trắng nhảy lên và đưa bóng vào rổ .
+hinh917.jpg#0 2 đội tuyển bóng rổ nữ đang chơi bóng rổ trong một sân vận động rộng lớn .
+hinh917.jpg#1 đội bóng rổ nữ áo trắng và áo xanh lá đang luyện tập bóng rổ .
+hinh917.jpg#2 4 nữ vận động viên đang có đắt lấy quả bóng rổ .
+hinh917.jpg#3 trái bóng rổ đang lơ lửng trên đầu 9 vận động viên bóng rổ .
+hinh917.jpg#4 2 đội đang chơi trong một sân vận động rộng lớn .
+hinh918.jpg#0 2 người đang chơi cờ vua .
+hinh918.jpg#1 2 người đang chạm vào bàn cờ vua .
+hinh918.jpg#2 người mặc áo cam đang chơi quân trắng trong cờ vua .
+hinh918.jpg#3 người mặc áo đen đang chơi quân đen trong cờ vua .
+hinh918.jpg#4 vàn cờ vua được đặt trên một mặt phẳng màu trắng .
+hinh919.jpg#0 1 người đàn ông đang luyện tập boxing .
+hinh919.jpg#1 1 người đàn ông mặc áo đen luyện tập boxing trong phòng gym .
+hinh919.jpg#2 chàng trai mặc áo đen vào băng tay màu trắng đang luyện tập boxing rất hăng hái .
+hinh919.jpg#3 chàng trai đang cố tấn công vào bao cát .
+hinh919.jpg#4 chàng trai luyện tập boxing trong một căn phòng đầy ấm dụng cụ .
+hinh920.jpg#0 rất nhiều người đang chơi cờ vua .
+hinh920.jpg#1 2 cố gái đang suy nghĩ chiến thuật  .
+hinh920.jpg#2 cô gái mặt áo đen và cô gái mặt áo đỏ đang quan sát bàn cờ vua .
+hinh920.jpg#3 bàn cờ vua bằng giấy được đặt trên bàn bằng gỗ .
+hinh920.jpg#4 mọi người đều tập trung vào trận đấu cờ vua của mình .
+hinh921.jpg#0 1 chàng trai đang chơi bóng rổ .
+hinh921.jpg#1 1 chàng trai nhảy lên thực hiện một cú úp rổ .
+hinh921.jpg#2 1 vận động viên bóng rổ đang giữ trái bóng rổ .
+hinh921.jpg#3 1 vận động viên bóng rổ đang chơi trong một sân vận động có nên màu xanh .
+hinh921.jpg#4 vận động viên tô con đang chơi bóng rổ một cách nghiêm túc .
+hinh922.jpg#0 2 cô bé đang chơi cờ vua đang một căn phòng màu trắng .
+hinh922.jpg#1 cô bé mặc áo đỏ chơi quân trắng trong bàn cờ vua .
+hinh922.jpg#2 cô bé mặc áo trắng chơi quân đen trên bàn cờ vua .
+hinh922.jpg#3 bàn cờ vua được làm bằng gỗ và được đặt trên một cái bàn .
+hinh922.jpg#4 2 cô bé đang chăm chú nhìn vào bàn cờ vua .
+hinh923.jpg#0 đây là game cờ vua được thiết kế như thật .
+hinh923.jpg#1 bàn cờ vua được mô phỏng như được làm bằng gỗ .
+hinh923.jpg#2 quân đen trên bàn cờ vua đang thua quân trắng  .
+hinh923.jpg#3 bàn cờ vua được thiết kế như thật .
+hinh923.jpg#4 quân trắng đang chiếm ưu thế trên bàn cờ vua .
+hinh924.jpg#0 1 vận động viên bóng rổ đang ôm trái bóng rổ .
+hinh924.jpg#1 người đàn ông mặc áo trắng đang giữ trái bóng rổ .
+hinh924.jpg#2 có 3 người đàn ông đang chơi bóng rổ .
+hinh924.jpg#3 người đàn ông ôm trái bóng rổ đang chạy .
+hinh924.jpg#4 2 vận động viên áo xanh đang nhìn vận động viên áo trắng .
+hinh925.jpg#0 1 nhóm thanh niên đang chơi bóng rổ .
+hinh925.jpg#1 có 2 nữ và 3 nam đang chơi bóng rổ .
+hinh925.jpg#2 1 nhóm người đang chơi bóng rổ ngoài trời .
+hinh925.jpg#3 người đàn ông mặc áo đỏ đang ôm trái bóng rổ .
+hinh925.jpg#4 người đàn ông mặc áo đỏ đang nhảy lên và đưa bóng vào rổ .
+hinh926.jpg#0 1 cậu bé và 1 cô bé đang chơi cờ vua .
+hinh926.jpg#1 2 người đang chơi cờ vua trên ghế sofa .
+hinh926.jpg#2 2 người đang chăm chú nhìn bàn cờ vua .
+hinh926.jpg#3 bàn cờ vua được đặc trên một chiếc ghế sofa .
+hinh926.jpg#4 bộ cờ vua được thiết kế đặc biệt đang được sử dụng bởi 2 người .
+hinh927.jpg#0 bàn tay đang chạm vào bàn cờ vua .
+hinh927.jpg#1 bàn tay đang làm ngã quân vua trên bàn cờ vua .
+hinh927.jpg#2 bàn cờ vua được đặt trong một không gian rất tối .
+hinh927.jpg#3 quân vua đang bị 1 bàn tay làm ngã .
+hinh927.jpg#4 đàn cờ vua sang trọng được làm bằng gỗ .
+hinh928.jpg#0 3 cậu bé đang chơi cờ vua .
+hinh928.jpg#1 cậu bé mặc áo xanh đang chơi cờ đen trên bàn cờ va .
+hinh928.jpg#2 cậu bé mặc áo khoác sọc xanh đang chơi quân trắng trên bàn cờ vua .
+hinh928.jpg#3 cậu bé mặc áo khoác xám đang nhìn 2 bạn mình chơi cờ vua .
+hinh928.jpg#4 3 người đang chơi cờ vua trong một căn phòng rông .
+hinh929.jpg#0 2 người đàn ông đang chơi bóng rổ .
+hinh929.jpg#1 khán giả đang nhìn 2 vận động viên thi đấu bóng rổ .
+hinh929.jpg#2 khán giả đang chú ý theo dõi trận đấu bóng rổ .
+hinh929.jpg#3 vận động viên bóng rổ áo trắng đang giữ bóng .
+hinh929.jpg#4 vận động viên bóng rổ áo đen đang chạy lại giành bóng .
+hinh930.jpg#0 6 người đang chơi bóng rổ trong một sân vận động .
+hinh930.jpg#1 vận động viên bóng rổ áo trắng đang nhảy lên đưa bóng vào rổ .
+hinh930.jpg#2 4 vận động viên áo xanh bao vây đối thủ của mình .
+hinh930.jpg#3 trái bóng rổ đang lơ lửng và chuẩn bị bay vào rổ .
+hinh930.jpg#4 khán giả đang theo dõi trận đấu bóng rổ .
+hinh931.jpg#0 4 vận động viên bỏng rổ nữ đang chơi bóng trên một sân vận động .
+hinh931.jpg#1 vận động viên bóng rổ áo xanh đang giữ bóng .
+hinh931.jpg#2 1 nữ vận động viên đang cố giành lấy trái bóng rổ .
+hinh931.jpg#3 1 nữ vận động viên đang cố chặn đường đối thủ .
+hinh931.jpg#4 1 nữ vận động viên áo xanh đang kèm 2 đối thủ của mình .
+hinh932.jpg#0 2 võ sĩ boxing đang thi đấu trân võ đài .
+hinh932.jpg#1 võ sĩ boxing quần trắng đang thủ thế .
+hinh932.jpg#2 võ sĩ boxing quần trắng chặn được đòn tấn công của đối thủ .
+hinh932.jpg#3 võ sĩ boxing quần đỏ đấm vào đầu đối thủ .
+hinh932.jpg#4 võ sĩ boxing quần đỏ bị chặn đòn tấn công .
+hinh933.jpg#0 1 vận động viên áo đỏ đang chạy trân sân bóng rổ .
+hinh933.jpg#1 vận động viên áo đỏ là người da đen .
+hinh933.jpg#2 1 người đàn ông đang chơi bóng rổ .
+hinh933.jpg#3 khán giả đang theo dõi trận đấu bóng rổ .
+hinh933.jpg#4 vận động viên bóng rổ đang giữ bóng .
+hinh934.jpg#0 2 người đàn ông đang chơi chơi vua .
+hinh934.jpg#1 nhiều người đang quan sát 2 chàng trai chơi cờ vua .
+hinh934.jpg#2 2 người đang chăm chú chơi cờ vua .
+hinh934.jpg#3 1 chàng trai đang chạm vào bàn cờ vua .
+hinh934.jpg#4 2 chàng trai đang chơi cờ vua trong một căn phòng rộng .
+hinh935.jpg#0 2 võ sĩ boxing đang thi đấu trên võ đài .
+hinh935.jpg#1 1 võ sĩ boxing đấm trúng vai đỗi thủ .
+hinh935.jpg#2 khán giả đang theo dõi trận đấu boxing .
+hinh935.jpg#3 1 võ sĩ boxing bị đấm rất mạnh ngay mặt .
+hinh935.jpg#4 1 võ si boxing áp sát đối thủ và tung ra đòn tấn công rất mạnh .
+hinh936.jpg#0 2 người đàn ông đang chơi bóng rổ .
+hinh936.jpg#1 2 vận động viên bóng rổ đang thi đấu trong một sân vận động .
+hinh936.jpg#2 khán giả đang theo dõi trận đấu bóng rổ .
+hinh936.jpg#3 vận động viên bóng rổ áo xanh lá cây đang giữ trái bóng rổ .
+hinh936.jpg#4 vận động viên bóng rổ mặc đồ trắng đang cản đối thủ mình .
+hinh937.jpg#0 2 võ sĩ boxing đang thi đấu .
+hinh937.jpg#1 1 võ sĩ boxing đấm trúng vào mặt đối thủ mình .
+hinh937.jpg#2 1 võ sĩ boxing bị đối thủ đấm ngay mặt .
+hinh937.jpg#3 1 võ sĩ boxing bị đấm trong rất đâu đơn .
+hinh937.jpg#4 2 người đàn ông đang thi đấu boxing trong một căn phòng tối .
+hinh938.jpg#0 1 võ sĩ boxing đang đứng chào khán giả .
+hinh938.jpg#1 nhiều người đang vây quanh 1 võ sĩ boxing .
+hinh938.jpg#2 mọi người đang vinh quang 1 võ sĩ boxing .
+hinh938.jpg#3 võ sĩ boxing mặc quần xanh và đeo gắng tay màu đỏ .
+hinh938.jpg#4 võ sĩ boxing đang đưng trong một căn phòng tối .
+hinh939.jpg#0 2 cậu bé đang chơi bóng rổ .
+hinh939.jpg#1 cậu bé mặc áo đen đang giữ bóng .
+hinh939.jpg#2 cậu bé giữ trái bóng rổ đang chạy .
+hinh939.jpg#3 cậu bé mặc áo đỏ đang cố cản đối thủ vượt qua .
+hinh939.jpg#4 cậu bé mặc áo đỏ đang chơi bóng rổ với cậu bé áo đen .
+hinh940.jpg#0 2 võ sĩ boxing đang thi đấu  .
+hinh940.jpg#1 1 võ sĩ boxing đang đấm vào mặt đối thủ .
+hinh940.jpg#2 1 võ sĩ boxing đấm rất mạnh vào đối thủ .
+hinh940.jpg#3 1 võ sĩ boxing bị đấm rất mạnh ngay mặt .
+hinh940.jpg#4 1 võ sĩ boxing đang đau đớn vì đòn tấn công của đối thủ .
+hinh941.jpg#0 1 chàng trai đang luyện tập boxing .
+hinh941.jpg#1 1 chàng trai đang đấm vào bao cát .
+hinh941.jpg#2 1 chàng trai đang luyện tập boxing trong một căn phòng tối .
+hinh941.jpg#3 1 chàng trai mặc áo đen luyện tập boxing với báo cát .
+hinh941.jpg#4 1 chàng trai chơi boxing mặc đồ đen và đeo găng tay màu đỏ .
+hinh942.jpg#0 2 võ sĩ boxing đang thi đấu .
+hinh942.jpg#1 1 võ sĩ boxing đấm trượt đối thủ .
+hinh942.jpg#2 1 võ sĩ boxing mặc quần trắng và đeo găng tay màu xanh lá cây .
+hinh942.jpg#3 1 võ sĩ boxing né được đòn tấn công của đối thủ .
+hinh942.jpg#4 2 võ sĩ boxing đang đánh nhau tại một nơi tôi .
+hinh943.jpg#0 7 người đang chơi bóng rổ .
+hinh943.jpg#1 7 người chơi bóng rổ trong một sân bóng ngoài trời .
+hinh943.jpg#2 1 chàng trai đang ném trái bóng rổ vào rổ .
+hinh943.jpg#3 6 người đang nhìn trái bóng rổ .
+hinh943.jpg#4 mọi người đang chơi bóng rổ dưới ánh sáng hoàng hôn .
+hinh944.jpg#0 2 vận động viên bóng rổ đang thi đấu trên một sân vận động .
+hinh944.jpg#1 vận động viên bóng rổ áo đỏ đang giữ bóng .
+hinh944.jpg#2 vận động viên bóng rổ áo trắng đang cố cản đối thủ của mình .
+hinh944.jpg#3 khán giả đang theo dõi trận đấu bóng rỏ .
+hinh944.jpg#4 vận động viên bóng rổ giữ bóng đang chạy  .
+hinh945.jpg#0 2 nữ võ sĩ boxing đang thi đấu với nhau .
+hinh945.jpg#1 nữ võ sĩ boxing áo đỏ quần xanh đang đấm vào mặt đối thủ .
+hinh945.jpg#2 nữ võ sĩ boxing đồ trắng cố cản đòn tấn công của đối thủ .
+hinh945.jpg#3 2 người đang chơi boxing trong một căn phòng tối .
+hinh945.jpg#4 1 nữ võ sĩ boxing đang bị đấm rất mạnh .
+hinh946.jpg#0 1 cô bé đang chơi cờ vua .
+hinh946.jpg#1 1 cô bé đang nhìn chăm chú vào bàn cờ vua .
+hinh946.jpg#2 bàn cờ vua đang bị nhìn bởi một cô bé .
+hinh946.jpg#3 cô bé đang chơi quân đen trong bàn cờ vua .
+hinh946.jpg#4 cô bé đang rất chăm chú quan sát bàn cờ vua .
+hinh947.jpg#0 2 cậu bé đang chơi cờ vua ngoài trời .
+hinh947.jpg#1 cậu bé áo sọc xanh đã chiến thắng trong trận đấu cờ vua .
+hinh947.jpg#2 cậu bé mặc áo xanh đã thua trong trận đấu cờ vua .
+hinh947.jpg#3 1 cậu bé đang nhìn vào bàn cờ vua .
+hinh947.jpg#4 bàn cờ vua bằng gỗ đặt được trên bàn được sử dụng bởi 2 cậu bé .
+hinh948.jpg#0 2 chàng trai đang thi đấu boxing .
+hinh948.jpg#1 1 võ sĩ boxing đang thủ thế .
+hinh948.jpg#2 1 võ sĩ boxing chuẩn bị tấn công đối thủ .
+hinh948.jpg#3 1 võ sĩ boxing mặc quần xanh và 1 võ sĩ boxing mặc quần trắng .
+hinh948.jpg#4 2 người đang thi đấu boxing trong một căn phòng tối .
+hinh949.jpg#0 2 võ sĩ đang thi đấu boxing .
+hinh949.jpg#1 1 võ sĩ boxing đang tấn công đối thủ .
+hinh949.jpg#2 1 võ sĩ boxing đang bị đối thủ đánh .
+hinh949.jpg#3 1 võ sĩ boxing đang cố đỡ đòn tấn công của đối thủ .
+hinh949.jpg#4 2 người đang thi đấu boxing trong một căn phòng tối .
+hinh950.jpg#0 2 võ sĩ đang thi đấu boxing .
+hinh950.jpg#1 1 võ sĩ boxing đang tấn công đối thủ .
+hinh950.jpg#2 2 võ sĩ boxing đang tấn công lẫn nhau .
+hinh950.jpg#3 2 người đang thi đấu boxing trong một căn phòng tối .
+hinh950.jpg#4 cả 2 võ sĩ boxing đều bị thương .
+hinh951.jpg#0 6 thanh niên chơi boxing đang tạo dáng .
+hinh951.jpg#1 3 chàng trai và 3 cô gái đang chơi boxing với nhau .
+hinh951.jpg#2 3 người mặc đồ đỏ và 3 người mặc đồ xanh chuẩn bị chơi boxing .
+hinh951.jpg#3 6 người chơi boxing đang tạo dáng trước một bước tường màu dỏ .
+hinh951.jpg#4 6 người chơi boxing làm mặt rất khó chịu .
+hinh952.jpg#0 2 vận động viên bóng rổ đang thi đấu trên một sân vận động .
+hinh952.jpg#1 1 vận động viên áo trắng đang giữ bóng .
+hinh952.jpg#2 vận động viên bóng rổ giữ bóng đang chạy .
+hinh952.jpg#3 vận động viên bóng rổ áo đen đang cố cản đối thủ .
+hinh952.jpg#4 khán giả đang theo dõi trận đấu bóng rổ .
+hinh953.jpg#0 3 cô gái đang tạo dáng cùng các quân cờ vua .
+hinh953.jpg#1 các quân cờ vua được đặt trên cầu thang .
+hinh953.jpg#2 3 cô gái ngồi trên các quân cờ vua .
+hinh953.jpg#3 các quân cờ vua được đặt dưới 3 cô gái .
+hinh953.jpg#4 quân cờ vua đang chụp hình với 3 cô gái .
+hinh954.jpg#0 2 người đang thi đấu boxing trong một căn phòng tối .
+hinh954.jpg#1 1 võ sĩ boxing đang đấm vào bụng đối thủ .
+hinh954.jpg#2 1 võ sĩ boxing đang bị đối thủ đấm .
+hinh954.jpg#3 1 võ sĩ boxing đấm đối thủ nhưng trướt .
+hinh954.jpg#4 1 võ sĩ boxing đã né được đòn tấn công của đối thủ .
+hinh955.jpg#0 2 người đang thi đấu boxing trong một căn phòng tối .
+hinh955.jpg#1 1 võ sĩ boxing đấm trúng vào mặt đối thủ .
+hinh955.jpg#2 1 võ sĩ boxing bị đấm trúng đầu .
+hinh955.jpg#3 1 võ sĩ boxing đang rất đau đơn .
+hinh955.jpg#4 1 võ sĩ boxing tấn công đối thủ rất tốt .
+hinh956.jpg#0 1 chàng trai đang chơi cờ vua .
+hinh956.jpg#1 1 chàng trai đang chạm vào quân cờ vua .
+hinh956.jpg#2 quân cờ vua và bàn cờ vua được làm bằng kim loại .
+hinh956.jpg#3 1 chàng trai mặc vest đang nhìn vào bàn cờ vua .
+hinh956.jpg#4 1 chàng trai mặc vest chơi cờ vua trong một căn phòng trắng .
+hinh957.jpg#0 2 người đang thi đấu boxing trong một căn phòng tối .
+hinh957.jpg#1 1 võ sĩ boxing đấm trung mặt đối thủ .
+hinh957.jpg#2 1 võ sĩ boxing bị tối thủ đấm trúng mặt .
+hinh957.jpg#3 1 võ sĩ boxing bị đấm phung ra máu .
+hinh957.jpg#4 1 võ sĩ boxing thực hiện một đòn tấn công rất tốt .
+hinh958.jpg#0 2 người đang chơi bóng rổ .
+hinh958.jpg#1 chàng trai mặc áo xanh đang giữ trái bóng rổ .
+hinh958.jpg#2 người đàn ông mậc áo tím đang cản đối thủ .
+hinh958.jpg#3 2 người chơi bóng rổ trong một sân vận động lớn .
+hinh958.jpg#4 chàng trai giữ bóng đang chạy .
+hinh959.jpg#0 1 cậu bé đang chơi bóng rổ .
+hinh959.jpg#1 cậu bé chơi bóng rổ trong một sân vận động lớn .
+hinh959.jpg#2 cậu bé đang cố ném bóng vào rổ .
+hinh959.jpg#3 cậu bé chơi bóng rổ đang nhảy .
+hinh959.jpg#4 cậu bé mặc áo xanh đang cố bắt trái bóng rổ .
+hinh960.jpg#0 2 võ sĩ boxing đang thi đấu trong một căn phòng tối .
+hinh960.jpg#1 1 võ sĩ boxing đang cúi người xuống .
+hinh960.jpg#2 1 võ sĩ boxing đang cố tấn công đối thủ .
+hinh960.jpg#3 võ sĩ đang cố tấn công đối thủ đang rất mệt .
+hinh960.jpg#4 võ sĩ đang cuối mặt đau đớn .
+hinh961.jpg#0 2 võ sĩ đang thi đấu boxing với nhau .
+hinh961.jpg#1 1 võ sĩ boxing đang cố khiêu khích đối thủ .
+hinh961.jpg#2 1 võ sĩ boxing đang cố tấn công đổi thủ .
+hinh961.jpg#3 khán giả đang theo dõi trận đấu boxing .
+hinh961.jpg#4 võ sĩ boxing quần da beo đang khoe bụng .
+hinh962.jpg#0 2 võ sĩ boxing đang thi đấu trong một căn phòng tối .
+hinh962.jpg#1 1 võ sĩ boxing đang cố tấn công đối thủ .
+hinh962.jpg#2 1 võ sĩ boxing đang cố chặn đòng tấn công từ đối thủ .
+hinh962.jpg#3 võ sĩ boxing tấn công đối thủ nhưng trượt .
+hinh962.jpg#4 võ sĩ boxing đã cản thành công đòng tấn công .
+hinh963.jpg#0 2 nữ vận động viên đang chơi bóng rổ .
+hinh963.jpg#1 nữ vận động viên áo trắng đang giữ bóng .
+hinh963.jpg#2 nữ vận động viên đồ đen đang cố cản đối thủ .
+hinh963.jpg#3 nữ vận động viên giữ bóng đang chạy .
+hinh963.jpg#4 nữ vận động viên bóng rổ áo đen đang gian tay .
+hinh964.jpg#0 3 người đàn ông đang chơi cờ vua .
+hinh964.jpg#1 1 người đàn ông chơi cờ trắng trên bàn cờ vua .
+hinh964.jpg#2 người đàn ông mặc áo đen đang dạy cờ vua .
+hinh964.jpg#3 người đàn ông mặc áo đen chơi cờ vua đang cố giải thích .
+hinh964.jpg#4 người đàn ông đang trong một lớp học cờ vua .
+hinh965.jpg#0 bàn cờ vua được đặt trong một căn phòng màu trắng .
+hinh965.jpg#1 quân chốt đen đang đứng trước các quân cờ trắng .
+hinh965.jpg#2 quân cờ vua được đặt trên bàn cờ vua .
+hinh965.jpg#3 bàn cờ vua được đặt dưới các quân cờ .
+hinh965.jpg#4 2 phe cờ đang đứng đối diện nhau trên bàn cờ vua .
+hinh966.jpg#0 2 chàng trai đang thi đấu cờ vua .
+hinh966.jpg#1 nhiều người đang chơi cờ vua .
+hinh966.jpg#2 2 cậu bé đang quan sát bàn cờ vua .
+hinh966.jpg#3 cạu bé áo xanh đang suy nghĩ chiến thuật .
+hinh966.jpg#4 2 cậu bé đang trong một giải đấu cờ vua .
+hinh967.jpg#0 bàn cờ vua được đặt trong một càn phòng màu trắng .
+hinh967.jpg#1 quân cờ vua được đặt trên bàn cờ vua .
+hinh967.jpg#2 bàn cờ vua được đặt dưới các quân cờ .
+hinh967.jpg#3 2 phe cờ đang đứng đối diện nhau trên bàn cờ vua .
+hinh967.jpg#4 bàn cờ vua được làm bằng gỗ .
+hinh968.jpg#0 2 vận động viên bóng rổ đang thi đấu .
+hinh968.jpg#1 1 vận động viên bóng rổ đang giữ bóng .
+hinh968.jpg#2 vận động viên giữ bóng đang cố vượt qua đối thủ .
+hinh968.jpg#3 1 vận động viên đang cố cản đối thủ mình vượt qua .
+hinh968.jpg#4 khán giả đang theo dõi trận đấu bóng rổ .
+hinh969.jpg#0 2 vận động viên bóng rổ đang thi đấu .
+hinh969.jpg#1 1 vận động viên bóng rổ đang giữ bóng .
+hinh969.jpg#2 vận động viên giữ bóng đang cố vượt qua đối thủ .
+hinh969.jpg#3 1 vận động viên đang cố cản đối thủ mình vượt qua .
+hinh969.jpg#4 khán giả đang theo dõi trận đấu bóng rổ .
+hinh970.jpg#0 1 võ sĩ boxing đang khoe cơ bắp của mình .
+hinh970.jpg#1 1 võ sĩ boxing đang thủ thế .
+hinh970.jpg#2 võ sĩ boxing trông rất lực lưỡng .
+hinh970.jpg#3 võ sĩ boxing đang luyện tập .
+hinh970.jpg#4 võ sĩ boxing đang trên võ đài .
+hinh971.jpg#0 2 võ sĩ boxing đang thi đấu trên võ đài .
+hinh971.jpg#1 1 võ sĩ boxing phóng tới và tấn công vào mặt đối thủ .
+hinh971.jpg#2 1 võ sĩ boxing đấm vào mặt đối thủ .
+hinh971.jpg#3 1 võ sĩ boxing bị đối thủ đầm .
+hinh971.jpg#4 võ sĩ boxing bị đấm đang chảy máu rất nhiều .
+hinh972.jpg#0 2 người đang chơi bóng rổ .
+hinh972.jpg#1 1 vận động viên bóng rổ đang giữ bóng .
+hinh972.jpg#2 vận động viên giữ bóng đang cố vượt qua đối thủ .
+hinh972.jpg#3 1 vận động viên đang cố cản đối thủ mình vượt qua .
+hinh972.jpg#4 1 vận động viên bóng rổ đang hạ thân người xuống .
+hinh973.jpg#0 2 cậu bé đang chơi cờ vua .
+hinh973.jpg#1 2 cậu bé đang chăm chú nhìn bàn cờ vua .
+hinh973.jpg#2 2 cậu bé đang quan sát bàn cờ vua .
+hinh973.jpg#3 bàn cờ vua bằng gỗ được đặt trên một cái bàn gỗ .
+hinh973.jpg#4 2 cậu bé đang chú tâm chơi cờ vua .
+hinh974.jpg#0 2 võ sĩ boxing đang thi đấu .
+hinh974.jpg#1 1 võ sĩ boxing đang tìm sơ hở của đối thủ .
+hinh974.jpg#2 1 võ sĩ boxing đang cản đòn tấn công của đối thủ .
+hinh974.jpg#3 1 võ sĩ boxing đang cố tấn công đối thủ .
+hinh974.jpg#4 2 võ sĩ thi đấu trong một căn phòng tối .
+hinh975.jpg#0 1 bàn tay đang chạm vào quân cờ vua .
+hinh975.jpg#1 1 bàn tay đang nhâc quân cờ vua .
+hinh975.jpg#2 quân cờ vua được đặt trên bàn cờ vua .
+hinh975.jpg#3 bàn cờ vua được ánh sáng chiếu tới .
+hinh975.jpg#4 bàn cờ vua được làm bằng gỗ .
+hinh976.jpg#0 2 nữ võ sĩ boxing đang cười .
+hinh976.jpg#1 1 nũ võ sĩ boxing đang đứng tại cửa hàng thể dục thể thao .
+hinh976.jpg#2 nữ võ sĩ boxing mặc đồ màu đen và đeo găng tay màu đổ .
+hinh976.jpg#3 một cô gái đang cười là võ sĩ boxing .
+hinh976.jpg#4 cửa hàng thể dục thể thao có cô gái chơi boxing .
+hinh977.jpg#0 2 người đàn ông đang chơi cờ vua .
+hinh977.jpg#1 bàn cờ vua làm bằng kim loại rất lớn .
+hinh977.jpg#2 2 người đàn ông đang nhìn vào bàn cơ fvua .
+hinh977.jpg#3 1 người đàn ông đang chạm vào quân cờ vua .
+hinh977.jpg#4 2 người đàn ông chơi cờ vua trong phòng tập .
+hinh978.jpg#0 4 người đang chơi bóng rổ .
+hinh978.jpg#1 trái bóng rổ đang lơ lửng  .
+hinh978.jpg#2 4 người đang cố giành trái bóng rổ đang lơ lửng .
+hinh978.jpg#3 đội đồ xanh và đội đồ đỏ đang thi đấu bóng rổ .
+hinh978.jpg#4 trái bóng đang bay vào rổ .
+hinh979.jpg#0 2 người đàn ông đang thi đấu boxing .
+hinh979.jpg#1 1 võ sĩ boxing đấm trúng vào mặt đối thủ .
+hinh979.jpg#2 1 võ sĩ boxing bị đành trúng mặc .
+hinh979.jpg#3 1 võ sĩ boxing vừa tấn công vừa cười .
+hinh979.jpg#4 khán giả đang theo dõi trận đấu boxing .
+hinh980.jpg#0 1 cô gái và một robot đang chơi cờ vua .
+hinh980.jpg#1 cô gái và robot đang nhìn nhau .
+hinh980.jpg#2 cô gái đang chạm vào bàn cờ vua .
+hinh980.jpg#3 robot đang suy nghĩ về cờ vua .
+hinh980.jpg#4 bàn cờ vua được đặt ở nơi rộng và sáng .
+hinh981.jpg#0 1 người đàn ông đang chơi cờ vua .
+hinh981.jpg#1 1 người đàn ông mặc vest đang chơi cờ vua .
+hinh981.jpg#2 bàn tay của người đàn ông đang chạm vào bàn cờ vua .
+hinh981.jpg#3 người đàn ông mặc vest chơi cờ trắng trên bàn cờ vua .
+hinh981.jpg#4 người đàn ông mặc vest chơi cờ vua trong một căn phòng sáng .
+hinh982.jpg#0 1 người mặc áo sọc đen trắng đang chơi cờ vua .
+hinh982.jpg#1 bàn tay của người mặc áo sọc đen trắng đang giữ quân cờ vua .
+hinh982.jpg#2 1 người đang chơi quân cờ đen trên bàn cờ vua .
+hinh982.jpg#3 bàn cờ vua được làm bằng gỗ  .
+hinh982.jpg#4 1 người đang chơi cờ vua trong một căn phòng rộng lớn .
+hinh983.jpg#0 2 võ sĩ đang thi đấu boxing  .
+hinh983.jpg#1 1 võ sĩ boxing đấm trung đối thủ mình .
+hinh983.jpg#2 võ sĩ boxing tấn công đối thủ mình ngay mặt .
+hinh983.jpg#3 1 võ sĩ boxing bị đấm ngay cằm .
+hinh983.jpg#4 2 võ sĩ boxing đang thi đấu ở một nơi rất tối .
+hinh984.jpg#0 2 chàng trai và 1 cô gái đang thi đấu bóng rổ .
+hinh984.jpg#1 2 người đang cố giành trái bóng rổ .
+hinh984.jpg#2 khán giả đang theo dõi trận đấu bóng rổ .
+hinh984.jpg#3 cô gái đồ trắng đang cố cản đối thủ .
+hinh984.jpg#4 chàng trai áo đen cố giành lấy trái bóng rổ .
+hinh985.jpg#0 1 bàn tay đang chạm vào quân cờ vua .
+hinh985.jpg#1 1 bàn tay đang nâng quân cờ vua lên .
+hinh985.jpg#2 1 người mặc vest đang chơi cờ vua .
+hinh985.jpg#3 1 người mặc vest đang cầm quân cờ vua màu trắng .
+hinh985.jpg#4 các quân cờ đang được đặt trên bàn cờ vua .
+hinh986.jpg#0 1 chàng trai đang chơi bóng rổ .
+hinh986.jpg#1 1 chàng trai ném bóng vào rổ .
+hinh986.jpg#2 trái bóng rổ chuẩn bị vào rổ .
+hinh986.jpg#3 chàng trai chơi bóng rổ một mình .
+hinh986.jpg#4 chàng trai chơi bóng rổ tại một sân bóng ngoài trời .
+hinh987.jpg#0 4 người đang chơi cờ vua .
+hinh987.jpg#1 2 cô gái đang chơi cờ vua với nhau .
+hinh987.jpg#2 4 người đang quan sát bàn cờ vua .
+hinh987.jpg#3 1 cô gái đang di chuyển quân cờ vua .
+hinh987.jpg#4 1 ông lão đang đưa ra ý kiến cho cô gái đang chơi cờ vua .
+hinh988.jpg#0 2 người đàn ông đang chơi cờ vua .
+hinh988.jpg#1 2 chàng trai đang chăm chú quan sát bàn cờ vua .
+hinh988.jpg#2 bàn cờ vua được đặt trên một cái bàn gỗ .
+hinh988.jpg#3 2 người đàn ông đang suy nghĩ về cờ vua .
+hinh988.jpg#4 2 người chơi cờ vua trong một căn phòng rộng .
+hinh989.jpg#0 1 võ sĩ boxing đang thi đấu boxing .
+hinh989.jpg#1 1 võ sĩ boxing trông rất lực lưỡng .
+hinh989.jpg#2 1 võ sĩ boxing đang thủ thế .
+hinh989.jpg#3 1 võ sĩ boxing đang giơ 2 nắm đấm của mình .
+hinh989.jpg#4 võ sĩ boxing mặc quần trắng và đeo găng tay màu đen .
+hinh990.jpg#0 3 chàng trai đang chơi bóng rổ .
+hinh990.jpg#1 2 chàng trai đồ đỏ đang chơi bóng rổ với chàng trai đồ xanh .
+hinh990.jpg#2 chàng trai đồ xanh đang giữ bóng .
+hinh990.jpg#3 2 chàng trai đồ đỏ đang cản đối thủ .
+hinh990.jpg#4 3 người chơi bóng rổ trong một sân vận động rộng  .
+hinh991.jpg#0 5 người đang chơi bóng rổ với nhau .
+hinh991.jpg#1 cô gái áo tím đang giữ bóng .
+hinh991.jpg#2 chàng trai áo trắng đang cố giành bóng .
+hinh991.jpg#3 5 người chơi bóng rổ trong rất vui vè .
+hinh991.jpg#4 5 người chơi bóng rổ tại một sân bóng ngoài trời .
+hinh992.jpg#0 2 người đang thi đấu boxing .
+hinh992.jpg#1 1 võ sĩ boxing đã né được đòn tấn công từ đối thủ .
+hinh992.jpg#2 1 võ sĩ boxing đã tấn công trượt đối thủ .
+hinh992.jpg#3 khán giả đang theo dõi trận đấu boxing .
+hinh992.jpg#4 2 võ sĩ boxing được mặc đồ bảo hiểm cẩn thận .
+hinh993.jpg#0 2 võ sĩ boxing đang thi đầu với nhau .
+hinh993.jpg#1 2 võ sĩ boxing đang đe dọa nhau .
+hinh993.jpg#2 2 võ sĩ boxing đang thủ thế .
+hinh993.jpg#3 2 võ sĩ boxing thi đấu trong một căn phòng rộng lớn .
+hinh993.jpg#4 1 võ sĩ boxing chuẩn bị tấn công đối thủ .
+hinh994.jpg#0 2 người đang chơi cờ vua với nhau .
+hinh994.jpg#1 chàng trai mặc áo xanh đang chơi cờ vua với cô gái trùm đầu .
+hinh994.jpg#2 chàng trai áo xanh chơi quân đen trên bàn cờ vua .
+hinh994.jpg#3 cô gái chơi quân trắng trong bàn cờ vua .
+hinh994.jpg#4 người đàn ông đang chạm vào bàn cờ vua .
+hinh995.jpg#0 1 vận động viên bóng rổ trong rất lực lưỡng .
+hinh995.jpg#1 1 vận động viên bóng rổ đứng trên sân bóng .
+hinh995.jpg#2 1 vận động viên bóng rổ mặc đồ màu trắng .
+hinh995.jpg#3 1 vận động viên bóng rổ đang bước đi .
+hinh995.jpg#4 1 vận động viên bóng rổ ở trong một sân vận động .
+hinh996.jpg#0 1 bàn cờ vua làm bằng gỗ .
+hinh996.jpg#1 1 bàn cờ vua có các quân cờ vua được làm bằng gỗ .
+hinh996.jpg#2 1 bàn cờ vua được đặt ngoài trời .
+hinh996.jpg#3 1 bàn cờ vua đang được chiếu sáng bởi ánh mặt trời .
+hinh996.jpg#4 một bàn cờ vua đẹp .
+hinh997.jpg#0 4 chàng trai đang chơi bóng rổ .
+hinh997.jpg#1 4 chàng trai đang giành trái bóng rổ .
+hinh997.jpg#2 4 chàng trai chơi bóng rổ ngoài trời .
+hinh997.jpg#3 4 chàng trai chơi bóng rổ vào ngày có thời tiết đẹp .
+hinh997.jpg#4 4 chàng lính ngự lâm .
+hinh998.jpg#0 3 chàng trai đang chơi bóng rổ .
+hinh998.jpg#1 1 vận động viên bóng rổ áo trắng đang ôm bóng .
+hinh998.jpg#2 2 vận động viên bóng rổ đồ vàng đang cố cản đối thủ .
+hinh998.jpg#3 3 người đàn ông thi đấu bóng rổ trong một sân vận động .
+hinh998.jpg#4 khán giả đang theo dõi trận đấu bóng rổ .
+hinh999.jpg#0 2 người đàn ông đang thi đấu boxing .
+hinh999.jpg#1 1 võ sĩ boxing đang đấm vào đầu đối thủ .
+hinh999.jpg#2 1 võ sĩ boxing bị đối thủ đấm trúng đầu .
+hinh999.jpg#3 2 võ sĩ boxing thi đấu với nhau trong một căn phòng tối .
+hinh999.jpg#4 2 võ sĩ boxing đang cố gắng thi đấu .
+hinh1000.jpg#0 1 chàng trai đạt đai trong một trận đấu boxing .
+hinh1000.jpg#1 1 võ sĩ boxing đang khoe cơ bắp của mình .
+hinh1000.jpg#2 1 chàng trai đang khoe thành tích của mình trong giải đấu boxing .
+hinh1000.jpg#3 1 võ sĩ boxing đang cười .
+hinh1000.jpg#4 1 võ sĩ boxing đang rất vui vẻ .
